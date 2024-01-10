@@ -22,8 +22,8 @@ Node.js serves as the runtime environment, ensuring efficient server-side execut
 
 
 **Commands for running**
-cd client 
-npm start
-cd api
+cd client -
+npm start /
+cd api -
 npm start
 
